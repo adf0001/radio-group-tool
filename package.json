@@ -1,6 +1,6 @@
 {
   "name": "radio-group-tool",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "dom radio group tool",
   "main": "radio-group-tool.js",
   "scripts": {
@@ -22,6 +22,6 @@
   "homepage": "https://github.com/adf0001/radio-group-tool#readme",
   "dependencies": {
     "ele-id": "^1.0.2",
-    "ele-tool": "^1.0.2"
+    "get-element-by-id": "^1.0.2"
   }
 }

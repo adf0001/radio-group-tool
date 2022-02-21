@@ -20,7 +20,7 @@ example:
 	assert(radio_group_tool.getValue('group1') === radio_group_tool.getValue('group2'));
 */
 
-var ele = require("ele-tool");
+var ele = require("get-element-by-id");
 var ele_id = require("ele-id");
 
 var getSubRadios = function (el) {
