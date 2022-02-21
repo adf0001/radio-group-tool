@@ -1,0 +1,27 @@
+{
+  "name": "radio-group-tool",
+  "version": "1.0.1",
+  "description": "dom radio group tool",
+  "main": "radio-group-tool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "radio",
+    "group"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/radio-group-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/radio-group-tool/issues"
+  },
+  "homepage": "https://github.com/adf0001/radio-group-tool#readme",
+  "dependencies": {
+    "ele-id": "^1.0.2",
+    "ele-tool": "^1.0.2"
+  }
+}
